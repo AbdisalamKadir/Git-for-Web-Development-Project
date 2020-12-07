@@ -1,0 +1,13 @@
+https://codepen.io/Abdisalam-Kadir/pen/BaLKbLJ?editors=1100
+
+1. What is the difference between an inline element and a block element? 
+Block Elements are those that take up the full width available on a web page, effectively blocking out any other elements from sitting next to it on the left or right.
+Inline Elements are those who only take up as much width as is needed to display the contents of the element, thereby allowing other elements to be in line with the inline element.
+
+2. What happens when an element is positioned absolutely? they have no effect at all on their parent element or on the elements that occur after them in the source code. An absolutely positioned element will therefore overlap other content unless you take action to prevent it.
+
+3.How do I make an element take up only the amount of space it needs but also have the ability to give it a width? The width property is used to fill a div remaining horizontal space using CSS. By setting the width to 100% it takes the whole width available of its parent.
+
+4. Name 3 elements that are diplay block by default, 2 elements that are display inline by default and 1 element that is display inline-block by default? button , input , select , and textarea 
+
+5. What is the fix for the box model? how HTML elements are modeled in browser engines and how dimension of those HTML elements are derived from CSS properties. 
